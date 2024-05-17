@@ -1,2 +1,2 @@
-# stop_paper_code
-Collection of all code to be published with stop paper. Name not final.
+# Sapkal_et_al_2024
+Collection of all code to be published with Sapkal et al, 2024 paper.
