@@ -11,3 +11,4 @@
 - BRK + BDN2 coactivation (imports parquet file with raw data, plots kinematic parameters)
 
 ## Scripts for muscle imaging
+- muscle imaging scripts are in the Muscle-Imaging/scripts subfolder. All dependencies are in the Muscle-Imaging/src subfolder 
