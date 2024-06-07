@@ -48,7 +48,7 @@ for i = 1:length(realSubFolders)
     %Collect per "flexed" fly data in this for loop
 
     for j=1:data(i).numFlexedFlies
-        FeFilePath = [flexedsubFolders(j).folder,'\',flexedsubFolders(j).name,'\Fe'];%for each flexed fly there is 1P and 2P imaging data, and sometimes also other leg segments were imaged. Therefore this folder structure is essential
+        FeFilePath = [flexedsubFolders(j).folder,'\',flexedsubFolders(j).name,'\Fe']; % get the correct path to Fe muscle data
         currSubFolders = dir(FeFilePath);
         realCurrSubFolders = currSubFolders([currSubFolders.isdir]');
         realCurrSubFolders = realCurrSubFolders(3:end);
