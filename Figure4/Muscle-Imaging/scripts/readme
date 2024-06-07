@@ -1,1 +1,2 @@
 contains all scripts for analysis and plotting data
+dependent scripts or folders from src folder must be added to matlab path before running the scripts
