@@ -1,4 +1,4 @@
-%% Script to make struct array for ACR1 tracked data
+%% Script for analyzing FlyTracker output in free-walking experiments
 % This only works with speicific folder,subfolder arrangement as in
 % selected_60-30_powdered_ACR1
 subFolders = dir(pwd);
