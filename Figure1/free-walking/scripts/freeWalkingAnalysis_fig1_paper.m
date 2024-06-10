@@ -1,6 +1,6 @@
 %% Script for analyzing FlyTracker output in free-walking experiments
 % This only works with speicific folder,subfolder arrangement as in
-% selected_60-30_powdered_ACR1
+% please run one section at a time, in order of occurance.
 subFolders = dir(pwd);
 realSubFolders = subFolders([subFolders.isdir]');
 realSubFolders = realSubFolders(3:end);
