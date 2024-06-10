@@ -1,6 +1,8 @@
-%% Script for analyzing FlyTracker output in free-walking experiments
+%% Script for analysis of FlyTracker output of free-walking experiments (Sapkal et al 2024 Fig. 1)
 % This only works with speicific folder,subfolder arrangement as in
-% please run one section at a time, in order of occurance.
+% superfolder/genotype subfolders/fly folders/tracking data
+% add path of edmond.de folder
+% run each section in order from start to end, one section at a time.
 subFolders = dir(pwd);
 realSubFolders = subFolders([subFolders.isdir]');
 realSubFolders = realSubFolders(3:end);
