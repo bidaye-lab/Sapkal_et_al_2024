@@ -6,4 +6,4 @@
 - scripts for reproducing Fig. 3j,k free walking analysis plots are available [here](https://github.com/bidaye-lab/Sapkal_et_al_2024/tree/main/Figure3/freeWalking).
 
 ### in-vivo imaging in Fig 3l
-- scripts for BDN2 in-vivo imaging in Fig. 3l are in the imaging repository described here
+- scripts for BDN2 in-vivo imaging in Fig. 3l are in the imaging repository described [here](https://github.com/bidaye-lab/Sapkal_et_al_2024/tree/main/Figure6/imaging_analysis-main)
