@@ -11,4 +11,4 @@
 - BRK + BDN2 coactivation (imports parquet file with raw data, plots kinematic parameters)
 
 ## Scripts for muscle imaging
-- muscle imaging scripts are here. https://github.com/bidaye-lab/Sapkal_et_al_2024/tree/main/Figure4/Muscle-Imaging
+- muscle imaging scripts are [here](https://github.com/bidaye-lab/Sapkal_et_al_2024/tree/main/Figure4/Muscle-Imaging)
